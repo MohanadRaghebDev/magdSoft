@@ -1,0 +1,17 @@
+{
+  "email" : "البريد",
+  "password" : "كلمة السر",
+  "login" : "تسجيل الدخول",
+  "register" : "التسجيل",
+  "fullName" : "الإسم بالكامل",
+  "phone" : "الهاتف",
+  "confirmPassword" : "تأكيد كلمة السر",
+  "userData" : "بيانات المستخدم",
+  "logout" : "تسجيل الخروج",
+  "fullNameRequired" : "برجاء ادخال الاسم بالكامل",
+  "emailIsRequired" : "برجاء ادخال بريد المستخدم",
+  "phoneRequired" : "برجاء ادخال رقم الهاتف",
+  "passwordRequired" : "برجاء ادخال الرقم السري",
+  "passwordMatch" : "الرقم السري غير متطابق "
+
+}

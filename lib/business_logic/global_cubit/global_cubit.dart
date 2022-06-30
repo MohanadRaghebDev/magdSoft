@@ -7,5 +7,4 @@ class GlobalCubit extends Cubit<GlobalState> {
   GlobalCubit() : super(GlobalInitial());
 
   static GlobalCubit get(context) => BlocProvider.of(context);
-
 }

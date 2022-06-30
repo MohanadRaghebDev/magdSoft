@@ -1,0 +1,16 @@
+{
+  "email" : "email",
+  "password" : "password",
+  "login" : "Login",
+  "register" : "Register",
+  "fullName" : "Full Name",
+  "phone" : "Phone",
+  "confirmPassword" : "Confirm Password",
+  "userData" : "User Data",
+  "logout" : "Logout",
+  "fullNameRequired" : "Please enter your full name",
+  "emailIsRequired" : "Please enter your email",
+  "phoneRequired" : "Please enter your phone number",
+  "passwordRequired" : "Please enter your password",
+  "passwordMatch" : "password must match "
+}
